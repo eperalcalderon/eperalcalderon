@@ -22,4 +22,4 @@
 <img alt="" src="https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/-Webflow-blue?style=flat&logo=webflow&logoColor=white">
  </p>
- <p>Puedes contactar conmigo por <a href=»mailto:eperalcalderon@gmail.com»>Aquí</a></p>
+ <p>Puedes contactar conmigo por <a href="mailto:eperalcalderon@gmail.com">Aquí</a></p>
