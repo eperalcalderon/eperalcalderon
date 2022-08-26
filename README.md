@@ -2,7 +2,7 @@
  <p>After finishing my UX Designer degree I've decided to learn about code and develop</p>
  <h3>Software and tool I master</h3>
  <p>
- <img alt="Figma" src=""https://img.shields.io/badge/-Figma-45b8d8?style=flat-square&logo=Figma&logoColor=white" />>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  </p>
 <!--
 **eperalcalderon/eperalcalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
