@@ -19,7 +19,7 @@
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-ff69b4?style=flat&logo=sass&logoColor=white">
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-ff69b4?style=flat&logo=styled-components&logoColor=white">
  </p>
- <p>Puedes contactar conmigo por <a href="mailto:eperalcalderon@gmail.com">Aquí</a></p>
+ <p>You can contact<a href="mailto:eperalcalderon@gmail.com"><strong>HERE</strong></a></p>
  <div align="center" width="50%">
  <img alt="gift despedida Han Solo, Star wars" src="https://media.giphy.com/media/rHR8qP1mC5V3G/giphy.gif">
  </div>
