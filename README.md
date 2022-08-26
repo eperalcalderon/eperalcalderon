@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h1>👋 Welcome, I'm Eduardo Peral Calderón, an <strong>UX/UI Designer and development student 👓</h1>
+ <p>After finishing my UX Designer degree I've decided to learn about code and develop</p>
+ <h3>Software and tool I master</h3>
+ <p>
+ <img alt="Figma" src=""https://img.shields.io/badge/-Figma-45b8d8?style=flat-square&logo=Figma&logoColor=white" />>
+ </p>
 <!--
 **eperalcalderon/eperalcalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
