@@ -3,6 +3,7 @@
  <h3>Software and tool I master</h3>
  <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-style=flat-square&logo=figma&logoColor=white"/>
  </p>
 <!--
 **eperalcalderon/eperalcalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
